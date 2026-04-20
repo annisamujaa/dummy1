@@ -2,7 +2,12 @@ import turtle
 import time
 import random
 
+<<<<<<< Updated upstream
 # sadjkhaksd
+=======
+# jkagsdksdgadgk
+# jsdhkashdad
+>>>>>>> Stashed changes
 # ----------------- PENGATURAN DASAR -----------------
 wn = turtle.Screen()
 wn.title("Snake 3 Level - Hard Mode")
