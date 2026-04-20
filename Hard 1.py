@@ -1,17 +1,7 @@
 import turtle
 import time
 import random
-<<<<<<< Updated upstream
-
-<<<<<<< Updated upstream
-# jsdhkashdad
-=======
-# sdagjjsadgk
-# sadjkhaksd
->>>>>>> Stashed changes
-=======
-# sdjlaldgbakahdgajsdhv
->>>>>>> Stashed changes
+# note: pastikan Python 3.6+ untuk f-string dan random.choice pada turtle
 # ----------------- PENGATURAN DASAR -----------------
 wn = turtle.Screen()
 wn.title("Snake 3 Level - Hard Mode")
