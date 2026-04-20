@@ -3,6 +3,7 @@ import time
 import random
 
 # jsdgaksdgkadgkasjgdkjasgdkjagdkjgkjdsagk
+# sddd
 
 # ----------------- PENGATURAN DASAR -----------------
 wn = turtle.Screen()
