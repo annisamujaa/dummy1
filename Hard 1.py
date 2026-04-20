@@ -3,10 +3,14 @@ import time
 import random
 <<<<<<< Updated upstream
 
+<<<<<<< Updated upstream
 # jsdhkashdad
 =======
 # sdagjjsadgk
 # sadjkhaksd
+>>>>>>> Stashed changes
+=======
+# sdjlaldgbakahdgajsdhv
 >>>>>>> Stashed changes
 # ----------------- PENGATURAN DASAR -----------------
 wn = turtle.Screen()
